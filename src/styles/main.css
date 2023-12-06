@@ -37,7 +37,7 @@ header .column span{
     font-size: 1.19rem;
 }
 
-.column .volume-slider input {
+.volume-slider input{
     accent-color: #fff;
 }
 
